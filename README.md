@@ -1,8 +1,8 @@
-# SiteHunter: Find Startup Ideas Backed by Real Traffic Data
+# [SiteHunter](https://sitehunter.org): Find Startup Ideas Backed by Real Traffic Data
 
 I've been hunting for my next side project for a while. My bookmarks folder is full of "10 SaaS ideas to build in 2026" posts, and every single one is just one blogger guessing. Then it clicked: instead of reading opinions, why not look at what the market is actually clicking on?
 
-That's exactly what [SiteHunter](https://sitehunter.org) does. It tracks thousands of AI products every month, ranks them by real visits and growth, and shows you who's winning before anyone writes about it. Free to use, and site reports don't even need a sign-up.
+That's exactly what [SiteHunter](https://www.youtube.com/redirect?q=https://sitehunter.org) does. It tracks thousands of AI products every month, ranks them by real visits and growth, and shows you who's winning before anyone writes about it. Free to use, and site reports don't even need a sign-up.
 
 Here's what kept me coming back.
 
